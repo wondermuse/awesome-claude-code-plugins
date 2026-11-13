@@ -401,6 +401,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 
 ## Resources
 - [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions.
+- [HOL Plugins](https://hol.org/plugins) - A public directory of Claude Code, Codex, Cursor and MCP plugins, ranked by trust score with scanner-backed security signals.
 
 ## Tutorials
 
